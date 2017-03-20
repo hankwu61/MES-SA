@@ -1,4 +1,4 @@
-# Readme 檔案與書籍介紹
+# 專案信息變更
 
 書籍的第一頁內容是從 `README.md` 這個檔案生成的，即使你沒有將 `README.md` 擺進製書指引檔（`SUMMARY.md`），它還是會被自動加入。
 
@@ -10,9 +10,11 @@
 
 ```
 {
-	"structure": {
-		"readme": "myIntro.md"
-	}
+    "structure": {
+        "readme": "myIntro.md"
+    }
 }
 ```
+
+
 
