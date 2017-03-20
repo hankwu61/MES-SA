@@ -24,11 +24,8 @@
 
 * 查詢頁面顯示標準:
 
-
-
-1. 查詢準則：&lt;table class=“cim3” width=“95%”&gt; &lt;tr&gt; &lt;td align=“right” nowrap=“nowrap” class=“t1”&gt;模號&lt;/td&gt;
-
-條件名稱靠右，控制項靠左，樣式使用css.css樣式檔。
+1. 查詢準則：&lt;table class=“cim3” width=“95%”&gt; &lt;tr&gt; &lt;td align=“right” nowrap=“nowrap” class=“t1”&gt;模號&lt;/td&gt;條件名稱靠右，控制項靠左，樣式使用css.css樣式檔。
+2. 查詢結果：&lt;table  width="95 class="cim3“  bgcolor=“\#FFFFFF”&gt;
 
 1. 查詢結果：&lt;table  width="95 class="cim3“  bgcolor=“\#FFFFFF”&gt;
 
