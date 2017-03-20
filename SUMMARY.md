@@ -1,7 +1,7 @@
-# SUMMARY
+# Summary
 
 * [簡介](README.md)
-  * [不懂 GIT 也能用 GitBook](book/nogitisok.md)
+  * [MES範圍](book/nogitisok.md)
   * [GitBook 終端機指令](book/gitbook-cli.md)
   * [補充說明](book/addendum.md)
 * [書籍格式](format/README.md)
@@ -41,3 +41,4 @@
   * [與單一作者的差異](platform/organizations/differences.md)
   * [作者歸屬轉換](platform/organizations/convert.md)
   * [移轉擁有權](platform/organizations/ownership.md)
+
