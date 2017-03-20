@@ -1,6 +1,6 @@
 # Summary
 
-* [簡介](README.md)
+* [說明](README.md)
   * [功能與架構](book/nogitisok.md)
   * [畫面說明](book/hua-mian-shuo-ming.md)
 * [專案系統](format/README.md)
