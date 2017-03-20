@@ -1,11 +1,9 @@
 # Summary
 
 * [簡介](README.md)
-  * [MES範圍](book/nogitisok.md)
-  * [GitBook 終端機指令](book/gitbook-cli.md)
-  * [補充說明](book/addendum.md)
-* [書籍格式](format/README.md)
-  * [輸出格式](format/output.md)
+  * [功能與架構](book/nogitisok.md)
+* [系統分析](format/README.md)
+  * [系統需求](format/output.md)
   * [輸出格式](format/introduction.md)
   * [章節](format/chapters.md)
   * [Markdown](format/markdown.md)
