@@ -12,7 +12,13 @@
 
 ![](/assets/project-ui6.png)
 
-任務指派選擇人員時，先顯示人員的負載
+![](/assets/project-ui7.png)
+
+* 任務指派選擇人員時，先顯示人員的負載
 
 ![](/assets/project-ui4.png)
+
+* menu字數限制---三級menu字數限制9個，四級menu字數限制7個
+
+![](/assets/project-ui9.png)
 
