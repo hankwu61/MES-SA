@@ -6,7 +6,7 @@
 * [專案系統](format/README.md)
   * [專案建立](format/output.md)
   * [專案信息變更](format/introduction.md)
-  * [章節](format/chapters.md)
+  * [專案查詢](format/chapters.md)
   * [Markdown](format/markdown.md)
   * [AsciiDoc](format/asciidoc.md)
   * [封面](format/cover.md)
